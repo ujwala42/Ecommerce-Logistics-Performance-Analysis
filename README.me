@@ -1,0 +1,344 @@
+# 📦 E-Commerce Logistics Performance Analysis
+
+## 📌 Project Overview
+
+E-Commerce Logistics Performance Analysis is a data analytics project that analyzes supply chain and shipping data to understand delivery performance, shipping delays, shipping modes, and regional logistics performance.
+
+The project uses Python for data cleaning, exploratory data analysis, KPI calculation, and data visualization. An interactive dashboard is developed using Streamlit to present insights in a user-friendly way.
+
+The goal is to identify delivery performance patterns, understand factors contributing to delays, and support data-driven decision-making.
+
+---
+
+## 🎯 Project Objectives
+
+- Analyze overall e-commerce shipping performance.
+- Calculate on-time and delayed delivery percentages.
+- Identify shipping modes with higher delivery durations.
+- Analyze monthly shipping trends.
+- Compare weekday and weekend shipping performance.
+- Analyze delivery delays across different regions and states.
+- Identify patterns in late delivery risk.
+- Develop an interactive dashboard for logistics performance analysis.
+
+---
+
+## ✨ Features
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- KPI calculation and analysis
+- Shipping mode performance comparison
+- Delivery status analysis
+- Monthly shipping trend analysis
+- Weekday vs. weekend comparison
+- Regional and state-wise analysis
+- Peak season analysis
+- Late delivery risk analysis
+- Interactive Streamlit dashboard
+- Interactive filters
+- Data table visualization
+- Filtered data download
+- High-resolution charts
+
+---
+
+## 📊 Key Performance Indicators (KPIs)
+
+The project evaluates logistics performance using the following metrics:
+
+| KPI | Description |
+|---|---|
+| Total Orders | Total number of unique non-cancelled orders |
+| Average Shipping Days | Average time taken for shipping |
+| On-Time Delivery Rate | Percentage of orders delivered on time or early |
+| Delayed Delivery Rate | Percentage of orders delivered late |
+| Average Delay Days | Average delay duration for late orders |
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| Python | Programming and analysis |
+| Pandas | Data manipulation and cleaning |
+| NumPy | Numerical calculations |
+| Matplotlib | Data visualization |
+| Seaborn | Statistical visualization |
+| Plotly | Interactive charts |
+| Streamlit | Interactive dashboard development |
+| Jupyter Notebook | Exploratory data analysis |
+| Git | Version control |
+| GitHub | Source code hosting |
+
+---
+
+## 📁 Project Structure
+
+```text
+Ecommerce-Logistics-Performance-Analysis/
+│
+├── data/
+│   ├── DataCoSupplyChainDataset.csv
+│   └── processed_orders.csv
+│
+├── notebooks/
+│   └── logistics_analysis.ipynb
+│
+├── charts/
+│   ├── delivery_status.png
+│   ├── shipping_mode_performance.png
+│   ├── monthly_shipping_trend.png
+│   └── regional_delay.png
+│
+├── screenshots/
+│   ├── dashboard_overview.png
+│   ├── delivery_status.png
+│   ├── shipping_mode_analysis.png
+│   ├── monthly_trend.png
+│   └── regional_analysis.png
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
+
+---
+
+## 📂 Dataset
+
+This project uses the **DataCo Smart Supply Chain Dataset**.
+
+The dataset contains information related to:
+
+- Order details
+- Shipping duration
+- Delivery status
+- Shipping mode
+- Order dates
+- Customer information
+- Product information
+- Regions and states
+- Late delivery risk
+
+### Dataset Source
+
+[DataCo Smart Supply Chain Dataset – Kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
+
+Download the dataset and place the CSV file inside the `data` folder.
+
+---
+
+## 🔍 Analysis Performed
+
+### 1. Data Cleaning and Preprocessing
+
+- Loaded the dataset using Pandas.
+- Checked missing values and duplicate records.
+- Processed date columns.
+- Handled missing values.
+- Prepared data for analysis.
+- Created an order-level dataset.
+- Excluded cancelled shipments from delivery performance calculations.
+
+### 2. KPI Analysis
+
+Calculated:
+
+- Total orders
+- Average shipping duration
+- On-time delivery rate
+- Delayed delivery rate
+- Average delay duration
+
+### 3. Shipping Mode Analysis
+
+Compared shipping modes based on:
+
+- Number of orders
+- Average shipping days
+- Delayed orders
+- On-time delivery rate
+- Delay percentage
+
+### 4. Monthly Trend Analysis
+
+Analyzed monthly changes in:
+
+- Total orders
+- Average shipping duration
+- Delivery delays
+
+### 5. Weekday and Weekend Analysis
+
+Compared shipping performance between weekdays and weekends to identify differences in delivery duration and delays.
+
+### 6. Regional and State-wise Analysis
+
+Identified geographical variations in shipping duration and delay percentages.
+
+### 7. Peak Season Analysis
+
+Compared shipping performance during peak-season months and regular months.
+
+### 8. Late Delivery Risk Analysis
+
+Analyzed the distribution of orders based on late delivery risk.
+
+---
+
+## 📈 Dashboard Features
+
+The Streamlit dashboard provides an interactive view of logistics performance.
+
+- KPI cards for overall performance
+- Delivery status distribution chart
+- Average shipping days by shipping mode
+- Monthly shipping duration trend
+- Regional delay percentage analysis
+- Shipping mode filters
+- Region filters
+- State filters
+- Date range filters
+- Filtered order data table
+- Download filtered dataset as CSV
+- Business insights based on filtered data
+
+---
+
+## 📷 Dashboard Screenshots
+
+### Dashboard Overview
+
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Delivery Status Analysis
+
+![Delivery Status Analysis](screenshots/delivery_status.png)
+
+### Shipping Mode Analysis
+
+![Shipping Mode Analysis](screenshots/shipping_mode_analysis.png)
+
+### Monthly Trend Analysis
+
+![Monthly Shipping Trend](screenshots/monthly_trend.png)
+
+### Regional Analysis
+
+![Regional Analysis](screenshots/regional_analysis.png)
+
+---
+
+## 🚀 Installation and Setup
+
+Follow these steps to run the project locally.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/ujwala42/Ecommerce-Logistics-Performance-Analysis.git
+```
+
+### 2. Navigate to the Project Folder
+
+```bash
+cd Ecommerce-Logistics-Performance-Analysis
+```
+
+### 3. Create a Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+### 4. Activate the Virtual Environment
+
+**Windows PowerShell:**
+
+```powershell
+.\venv\Scripts\Activate.ps1
+```
+
+If PowerShell blocks activation, run:
+
+```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+```
+
+Then activate the environment again.
+
+**Windows Command Prompt (CMD):**
+
+```cmd
+venv\Scripts\activate.bat
+```
+
+### 5. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 6. Run the Jupyter Notebook
+
+Open the following file in VS Code:
+
+```text
+notebooks/logistics_analysis.ipynb
+```
+
+Execute the notebook cells to perform data cleaning, analysis, and visualization.
+
+### 7. Run the Streamlit Dashboard
+
+```bash
+python -m streamlit run app.py
+```
+
+The dashboard will open in your web browser.
+
+Local URL:
+
+```text
+http://localhost:8501
+```
+
+---
+
+## 💡 Key Insights
+
+The analysis helps identify:
+
+- Shipping modes with higher average shipping duration.
+- Regions experiencing more delivery delays.
+- Monthly variations in shipping performance.
+- Differences in weekday and weekend delivery performance.
+- Peak-season shipping patterns.
+- Patterns associated with late delivery risk.
+
+These insights can help businesses improve shipping strategies, identify logistics bottlenecks, and enhance customer satisfaction.
+
+---
+
+## 📝 Conclusion
+
+This project demonstrates how data analytics can be used to analyze e-commerce logistics and supply chain performance.
+
+By combining data cleaning, exploratory analysis, KPI calculations, visualization, and an interactive dashboard, the project provides insights into shipping performance, delivery delays, and regional logistics patterns.
+
+The dashboard makes it easier for users to explore the data, identify performance issues, and support data-driven decisions.
+
+---
+
+## 👩‍💻 Author
+
+**UJWALA A**
+
+Data Analytics | Python | Data Visualization | Streamlit
+
+---
+
+⭐ If you find this project interesting, feel free to explore the repository!
