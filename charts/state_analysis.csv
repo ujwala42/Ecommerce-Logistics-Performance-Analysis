@@ -1,0 +1,1084 @@
+Order_State,Total_Orders,Average_Shipping_Days,Delayed_Orders,Delay_Percentage
+Abia,15,3.4,8,53.33
+Abruzos,21,3.86,13,61.9
+Aceh,7,3.86,6,85.71
+Acre,8,3.62,4,50.0
+Adamaoua,4,4.0,2,50.0
+Adamawa,5,4.2,3,60.0
+Adana,51,3.82,32,62.75
+Adiyaman,5,3.4,4,80.0
+Afyonkarahisar,3,5.67,3,100.0
+Aichi,21,3.95,10,47.62
+Ajmán,3,2.0,2,66.67
+Akmola,6,3.33,1,16.67
+Aksaray,2,5.0,1,50.0
+Akwa Ibom,6,4.17,3,50.0
+Al Asimah,1,4.0,0,0.0
+Al Bahr al Ahmar,17,3.94,11,64.71
+Al Buhayrah,2,1.5,0,0.0
+Al Hudayda,3,2.0,3,100.0
+Al Jawf,7,3.29,2,28.57
+Al Marqab,1,6.0,1,100.0
+Alabama,45,3.24,24,53.33
+Alagoas,82,3.59,38,46.34
+Alberta,35,3.49,21,60.0
+Alejandría,84,3.32,40,47.62
+Alger,45,3.67,26,57.78
+Alibori,3,3.0,0,0.0
+Almaty,7,1.57,2,28.57
+Alsacia-Champaña-Ardenas-Lorena,289,3.74,167,57.79
+Alta Austria,37,3.16,23,62.16
+Amapá,20,3.8,15,75.0
+Amasya,6,3.33,4,66.67
+Amazonas,47,3.26,24,51.06
+Amberes,75,3.21,40,53.33
+Amur,8,3.88,3,37.5
+Amán,33,3.79,15,45.45
+Analamanga,31,3.61,17,54.84
+Anambra,16,3.69,8,50.0
+Ancash,5,2.2,0,0.0
+Andalucía,183,3.33,109,59.56
+Andhra Pradesh,91,3.42,55,60.44
+Andiján,6,3.33,4,66.67
+Anhui,104,3.62,59,56.73
+Ankara,137,3.35,77,56.2
+Annaba,16,3.81,7,43.75
+Anseba,1,6.0,1,100.0
+Antalya,36,3.17,18,50.0
+Antioquía,78,3.47,40,51.28
+Antofagasta,7,3.14,3,42.86
+Anzoátegui,24,3.62,15,62.5
+Aomori,1,6.0,1,100.0
+Apulia,138,3.8,81,58.7
+Aquitania-Lemosín-Poitou-Charentes,315,3.44,190,60.32
+Arad,1,2.0,1,100.0
+Aragua,39,3.87,26,66.67
+Arauca,9,2.78,5,55.56
+Arbil,33,3.52,14,42.42
+Ardahan,1,2.0,0,0.0
+Ardebil,20,3.75,14,70.0
+Arequipa,7,3.86,3,42.86
+Arges,2,4.0,1,50.0
+Arica y Parinacota,2,3.0,1,50.0
+Arizona,175,3.46,108,61.71
+Arjánguelsk,17,3.18,11,64.71
+Arkansas,51,3.55,35,68.63
+Artemisa,22,3.55,18,81.82
+Artibonito,19,4.21,14,73.68
+Arusha,8,2.75,3,37.5
+Ash Sharqiyah,20,4.05,11,55.0
+Ashanti,20,3.7,13,65.0
+Asir,7,4.0,3,42.86
+Asiut,3,3.33,1,33.33
+Asjabad,8,3.88,5,62.5
+Assam,31,3.1,16,51.61
+Astaná,16,3.44,8,50.0
+Astracán,9,3.33,4,44.44
+Asturias,18,3.89,11,61.11
+Asunción,4,2.5,2,50.0
+Aswan,10,3.1,8,80.0
+Atacama,3,2.67,1,33.33
+Atakora,3,4.0,1,33.33
+Atlántico,50,3.04,28,56.0
+Atlántida,99,3.91,57,57.58
+Atsimo-Andrefana,1,2.0,0,0.0
+Atsinanana,3,4.33,3,100.0
+Attica,10,3.6,4,40.0
+Auckland,182,3.42,111,60.99
+Australia Occidental,432,3.42,257,59.49
+Australia del Sur,289,3.56,167,57.79
+Auvernia,44,3.61,28,63.64
+Auvernia-Ródano-Alpes,363,3.29,191,52.62
+Aveiro,2,4.0,2,100.0
+Ayacucho,4,4.25,3,75.0
+Aydin,8,4.12,5,62.5
+Azuay,11,3.64,4,36.36
+Babilonia,11,4.36,8,72.73
+Bacau,9,4.11,5,55.56
+Baden-Wurtemberg,281,3.62,176,62.63
+Bagdad,136,3.36,72,52.94
+Bahía,214,3.65,118,55.14
+Baja California,191,3.92,119,62.3
+Baja California Sur,5,3.6,2,40.0
+Baja Sajonia,226,3.51,139,61.5
+Bajo Congo,4,4.5,4,100.0
+Baki,20,3.1,12,60.0
+Bali,30,3.83,20,66.67
+Balikesir,13,3.38,10,76.92
+Balti,5,4.4,4,80.0
+Baluchistán,9,3.89,5,55.56
+Bamako,26,3.5,14,53.85
+Bandundu,14,4.07,7,50.0
+Bangkok,375,3.55,220,58.67
+Bangui,7,4.14,5,71.43
+Bani Suwayf,6,3.5,2,33.33
+Banská Bystrica,1,4.0,1,100.0
+Barahona,18,3.06,5,27.78
+Bashkortostán,49,3.69,26,53.06
+Basilea-Ciudad,19,3.05,5,26.32
+Basilicata,3,3.33,2,66.67
+Basora,59,3.75,40,67.8
+Batman,12,3.83,7,58.33
+Batna,7,3.71,6,85.71
+Bauchi,5,3.2,2,40.0
+Bavaria,310,3.55,168,54.19
+Bay of Plenty,22,3.27,9,40.91
+Beirut,7,3.29,4,57.14
+Benadir,25,2.56,16,64.0
+Bengala Occidental,60,3.72,39,65.0
+Bengasi,21,3.67,12,57.14
+Bengkulu,3,5.0,2,66.67
+Benguela,7,3.57,6,85.71
+Benue,6,3.17,4,66.67
+Berlín,355,3.46,212,59.72
+Berna,15,3.93,8,53.33
+Bihar,85,3.6,44,51.76
+Bihor,6,3.67,4,66.67
+Bingöl,2,3.5,2,100.0
+Bishkek,31,3.52,16,51.61
+Bistrita-Nasaud,1,4.0,0,0.0
+Bisáu,9,4.0,5,55.56
+Bitola,1,5.0,1,100.0
+Bié,7,3.29,6,85.71
+Boeny,6,3.83,4,66.67
+Bogotá,161,3.3,84,52.17
+Bolu,5,2.8,4,80.0
+Bolívar,43,3.63,30,69.77
+Borgou,2,3.5,0,0.0
+Borgoña-Franco Condado,73,3.79,47,64.38
+Borneo Meridional,8,3.88,6,75.0
+Borneo Occidental,13,3.69,10,76.92
+Borno,19,3.79,10,52.63
+Botosani,6,2.67,2,33.33
+Boyacá,7,3.29,5,71.43
+Bra?ov,9,3.0,7,77.78
+Brabante Flamenco,11,3.0,7,63.64
+Brabante Septentrional,117,3.5,65,55.56
+Braga,3,4.0,0,0.0
+Braila,4,2.75,2,50.0
+Brandenburgo,43,3.35,27,62.79
+Bremen,105,3.77,61,58.1
+Brest,14,3.29,5,35.71
+Bretaña,145,3.39,88,60.69
+Briansk,6,2.17,1,16.67
+Bruselas,6,3.17,4,66.67
+Budapest,43,3.63,26,60.47
+Buenos Aires,301,3.35,153,50.83
+Buenos Aires (provincia),56,3.66,32,57.14
+Bugía,3,4.0,3,100.0
+Bulawayo,25,3.32,18,72.0
+Burgas,2,3.5,1,50.0
+Bursa,49,3.24,38,77.55
+Busan,18,3.39,11,61.11
+Bushehr,3,4.67,2,66.67
+Buskerud,9,3.89,4,44.44
+Buyumbura Mairie,1,3.0,0,0.0
+Buzau,5,4.2,3,60.0
+Béchar,2,4.5,1,50.0
+Békés,2,2.5,0,0.0
+Bélgorod,13,3.15,5,38.46
+Bío-Bío,22,2.95,16,72.73
+Cabo Delgado,1,4.0,0,0.0
+Cabo Occidental,73,3.56,40,54.79
+Cabo Oriental,45,3.56,20,44.44
+Cadisia,13,3.15,5,38.46
+Cajamarca,4,2.5,1,25.0
+Calabarzón,71,3.75,43,60.56
+Calabria,13,3.15,8,61.54
+Caldas,20,3.35,10,50.0
+California,1565,3.48,886,56.61
+Callao,5,4.0,2,40.0
+Camagüey,76,3.37,41,53.95
+Campania,167,3.26,74,44.31
+Campeche,36,3.67,18,50.0
+Canelones,3,4.67,2,66.67
+Cantabria,22,3.59,7,31.82
+Canterbury,50,3.3,29,58.0
+Capital Nacional,790,3.57,461,58.35
+Caquetá,10,3.7,5,50.0
+Carabobo,25,3.88,19,76.0
+Caras-Severin,1,2.0,1,100.0
+Carintia,32,3.66,20,62.5
+Carolina del Norte,194,3.54,120,61.86
+Carolina del Sur,36,3.75,19,52.78
+Casanare,2,3.0,1,50.0
+Castilla y León,104,3.32,58,55.77
+Castilla-La Mancha,46,3.93,30,65.22
+Cataluña,226,3.5,129,57.08
+Catamarca,2,2.5,0,0.0
+Ceará,103,3.38,51,49.51
+Central,62,3.35,31,50.0
+Centro,39,3.49,21,53.85
+Centro-Valle de Loira,95,3.54,57,60.0
+Cerdeña,39,3.87,24,61.54
+Cesar,8,2.75,4,50.0
+Ceuta,22,3.59,13,59.09
+Chaco,42,3.45,22,52.38
+Chaguanas,16,4.06,10,62.5
+Chandigarh,8,3.62,5,62.5
+Chauía-Uardiga,12,2.42,5,41.67
+Cheliábinsk,54,3.2,34,62.96
+Cherkasy,8,3.75,5,62.5
+Chernihiv,13,2.85,4,30.77
+Chhattisgarh,66,3.35,42,63.64
+Chiapas,71,3.34,38,53.52
+Chiba,20,3.85,10,50.0
+Chihuahua,248,3.41,140,56.45
+Chimaltenango,41,3.34,25,60.98
+Chinandega,86,3.27,49,56.98
+Chiriquí,72,3.44,37,51.39
+Chisináu,22,3.64,14,63.64
+Chittagong,38,3.37,19,50.0
+Chocó,3,2.67,3,100.0
+Choluteca,65,3.63,28,43.08
+Chongqing,54,3.46,31,57.41
+Chubut,7,4.29,5,71.43
+Chukha,2,6.0,2,100.0
+Chungcheong del Sur,2,4.0,1,50.0
+Chuquisaca,11,4.45,8,72.73
+Cidade De Maputo,25,3.72,15,60.0
+Ciego de Ávila,45,3.38,29,64.44
+Cienfuegos,57,3.37,35,61.4
+Ciudad Ho Chi Minh,227,3.61,131,57.71
+Ciudad de Almatý,16,4.0,14,87.5
+Cluj,7,4.0,3,42.86
+Coahuila,169,3.26,101,59.76
+Cochabamba,4,3.0,2,50.0
+Coimbra,6,3.5,3,50.0
+Cojedes,4,4.0,2,50.0
+Colima,47,3.53,31,65.96
+Colorado,151,3.83,95,62.91
+Columbia británica,36,3.33,20,55.56
+Colón,29,4.0,19,65.52
+Connecticut,66,3.52,33,50.0
+Constantina,9,2.89,5,55.56
+Constanza,5,4.4,3,60.0
+Copperbelt,37,3.62,21,56.76
+Cordillera,21,3.62,10,47.62
+Cork,37,3.65,24,64.86
+Corrientes,11,3.09,10,90.91
+Corse,10,2.6,4,40.0
+Cortés,359,3.49,200,55.71
+Corum,9,3.78,4,44.44
+Costa,20,3.4,11,55.0
+Cross River,19,2.95,9,47.37
+Cundinamarca,29,3.31,18,62.07
+Cuscatlán,36,3.19,16,44.44
+Célebes Central,5,2.4,1,20.0
+Célebes Septentrional,21,3.62,12,57.14
+Célebes Suroriental,26,3.04,16,61.54
+Córdoba,25,3.24,15,60.0
+Daca,130,3.45,81,62.31
+Daegu,15,3.4,8,53.33
+Daejeon,32,4.12,23,71.88
+Daguestán,39,3.44,26,66.67
+Dakar,68,3.51,30,44.12
+Dakota del Norte,5,3.6,4,80.0
+Dakota del Sur,9,2.89,6,66.67
+Dar es Salaam,55,3.27,28,50.91
+Dayr az Zawr,8,2.88,4,50.0
+Delaware,78,3.53,47,60.26
+Delhi,70,3.3,36,51.43
+Delta,21,3.9,11,52.38
+Demerara-Berbice Superior,6,2.67,5,83.33
+Denizli,14,3.93,7,50.0
+Departamento Atlántico,3,2.0,3,100.0
+Di Car,3,3.33,2,66.67
+Diala,1,3.0,0,0.0
+Diana,5,3.2,2,40.0
+Diffa,2,4.5,1,50.0
+Dinamarca Meridional,37,3.76,16,43.24
+Dire Dawa,6,3.0,3,50.0
+Distrito Capital,56,3.55,31,55.36
+Distrito Federal,828,3.54,486,58.7
+Distrito de Cayo,4,3.0,2,50.0
+Distrito de Columbia,9,3.56,4,44.44
+Dix-Huit Montagnes,2,2.5,0,0.0
+Diyarbakir,12,3.08,6,50.0
+Djelfa,12,3.67,6,50.0
+Dnipropetrovsk,47,3.72,34,72.34
+Doha,12,3.58,8,66.67
+Dolj,2,2.0,0,0.0
+Donetsk,31,3.81,20,64.52
+Donga,4,4.0,2,50.0
+Drenthe,23,3.26,11,47.83
+Duarte,52,3.87,36,69.23
+Dublín,132,3.39,81,61.36
+Dublín del Sur,8,3.38,6,75.0
+Dukala-Abda,5,3.6,2,40.0
+Durango,91,3.64,57,62.64
+Durrës,2,3.5,1,50.0
+Dà Nang,11,4.0,6,54.55
+Düzce,1,3.0,1,100.0
+Ebonyi,2,3.5,0,0.0
+Ecuatoria Central,2,3.5,2,100.0
+Edo,18,3.06,10,55.56
+El Aaiún,1,6.0,1,100.0
+El Beni,11,3.64,6,54.55
+El Cairo,189,3.31,117,61.9
+Elazig,7,3.29,2,28.57
+Elbasan,1,2.0,1,100.0
+Emilia-Romaña,179,3.73,109,60.89
+Entre Ríos,9,3.11,3,33.33
+Enugu,20,3.1,9,45.0
+Erzurum,9,4.0,7,77.78
+Escania,15,3.0,5,33.33
+Escocia,148,3.36,72,48.65
+Escuintla,56,2.95,38,67.86
+Eskisehir,11,3.82,6,54.55
+Espaillat,11,3.64,7,63.64
+Espíritu Santo,31,3.55,18,58.06
+Est,6,2.5,1,16.67
+Estado Libre,3,1.67,3,100.0
+Estambul,329,3.57,193,58.66
+Estelí,55,3.47,32,58.18
+Estocolmo,262,3.59,153,58.4
+Estuaire,12,3.0,9,75.0
+Extremadura,1,5.0,1,100.0
+Extreme-Nord,2,4.0,1,50.0
+Fars,50,3.14,20,40.0
+Fayún,11,2.73,6,54.55
+Federación de Bosnia y Herzegovina,15,3.2,10,66.67
+Fez-Bulmán,26,3.73,15,57.69
+Finlandia del Sudoeste,16,4.38,10,62.5
+Flanders Occidental,15,3.53,9,60.0
+Flanders Oriental,37,3.92,25,67.57
+Florida,300,3.56,170,56.67
+Francisco Morazán,555,3.44,314,56.58
+Französisch-Guayana,3,2.33,1,33.33
+Frisia,10,3.8,5,50.0
+Friuli-Venecia Julia,8,4.0,4,50.0
+Fromager,3,3.67,1,33.33
+Fujian,68,3.75,41,60.29
+Fukui,5,4.0,2,40.0
+Fukuoka,5,4.6,3,60.0
+Galati,12,3.08,8,66.67
+Gales,57,3.18,37,64.91
+Galicia,47,3.49,30,63.83
+Galway,2,2.0,2,100.0
+Gansu,51,3.29,27,52.94
+Garb-Chrarda-Beni Hsen,8,3.38,7,87.5
+Gauteng,194,3.47,111,57.22
+Gaziantep,34,3.44,20,58.82
+Georgia,144,3.3,82,56.94
+Gezira,14,2.71,7,50.0
+Gharbia,14,4.21,11,78.57
+Ginebra,10,4.4,8,80.0
+Gisborne,7,3.71,1,14.29
+Giurgiu,4,2.0,1,25.0
+Gobolka Woqooyi Galbeed,12,3.67,9,75.0
+Goiás,57,3.67,31,54.39
+Golestán,2,5.5,2,100.0
+Gombe,2,3.0,1,50.0
+Gorj,2,4.0,2,100.0
+Grad Zagreb,16,3.5,10,62.5
+Gran Accra,55,3.84,36,65.45
+Gran Casablanca,106,3.5,68,64.15
+Gran Polonia,16,2.56,11,68.75
+Gran Valle del Rift,8,2.75,2,25.0
+Granada,44,3.43,27,61.36
+Grand Gedeh,1,6.0,1,100.0
+Granma,105,3.38,57,54.29
+Grodno,26,3.85,14,53.85
+Groningen,31,3.87,24,77.42
+Guadalupe,13,3.69,6,46.15
+Guanacaste,11,3.64,7,63.64
+Guanajuato,251,3.42,158,62.95
+Guangdong,379,3.41,223,58.84
+Guangxi,45,3.42,20,44.44
+Guantánamo,64,3.62,33,51.56
+Guatemala,655,3.53,361,55.11
+Guayas,30,3.47,20,66.67
+Guelma,8,3.12,3,37.5
+Guelmim-Esmara,1,4.0,0,0.0
+Guerrero,25,3.76,15,60.0
+Guilán,24,3.67,13,54.17
+Guizhou,21,3.9,14,66.67
+Gulu,5,3.8,3,60.0
+Gunma,8,3.5,3,37.5
+Guyarat,121,3.55,74,61.16
+Guárico,9,3.78,8,88.89
+Gy?r,6,3.83,6,100.0
+Gyeonggi,36,3.69,26,72.22
+Gyeongsangnam,20,3.55,10,50.0
+Gómel,19,3.42,15,78.95
+Güeldres,52,3.73,31,59.62
+Haifa,16,3.12,12,75.0
+Hainan,9,2.89,5,55.56
+Hajdú-Bihar,1,6.0,1,100.0
+Halland,5,4.0,4,80.0
+Hamadán,23,3.13,12,52.17
+Hamburgo,215,3.4,124,57.67
+Harare,36,3.69,17,47.22
+Harjumaa,9,3.33,8,88.89
+Haryana,50,3.3,31,62.0
+Hatay,9,4.33,7,77.78
+Haut-Sassandra,2,5.5,2,100.0
+Haute-Matsiatra,2,4.5,1,50.0
+Hawke's Bay,23,3.74,13,56.52
+Hebei,53,3.51,32,60.38
+Hedmark,4,4.0,3,75.0
+Heilongjiang,146,3.45,82,56.16
+Henan,95,3.47,67,70.53
+Henao,32,3.56,17,53.12
+Herat,7,3.0,4,57.14
+Hesse,164,3.47,102,62.2
+Hidalgo,3,3.33,1,33.33
+Hims,13,4.15,10,76.92
+Hiroshima,7,4.43,5,71.43
+Hokkaido,5,3.4,2,40.0
+Holanda Meridional,154,3.36,80,51.95
+Holanda Septentrional,156,3.5,93,59.62
+Holguín,102,3.24,60,58.82
+Hong Kong,31,3.19,13,41.94
+Hordaland,14,3.43,7,50.0
+Hormozgán,6,3.0,3,50.0
+Hradec Králové,3,3.33,1,33.33
+Huambo,17,3.41,11,64.71
+Hubei,120,3.47,64,53.33
+Huehuetenango,46,3.33,29,63.04
+Huila,7,2.43,1,14.29
+Hunan,76,3.5,54,71.05
+Hyogo,20,3.45,9,45.0
+Iasi,9,3.22,4,44.44
+Ibaraki,4,4.25,2,50.0
+Ibb,1,2.0,1,100.0
+Ica,11,3.64,6,54.55
+Idaho,17,4.12,12,70.59
+Igdir,3,2.67,0,0.0
+Ilam,2,5.5,2,100.0
+Illinois,386,3.55,225,58.29
+Imericia,8,4.0,5,62.5
+Imo,3,3.67,0,0.0
+Indiana,120,3.47,67,55.83
+Inglaterra,2456,3.46,1370,55.78
+Inhambane,1,6.0,1,100.0
+Iowa,23,3.35,12,52.17
+Irbid,2,2.0,2,100.0
+Iringa,1,4.0,0,0.0
+Irkutsk,25,3.72,20,80.0
+Isfahán,26,3.62,14,53.85
+Ishikawa,5,2.8,2,40.0
+Isla de Francia,1621,3.52,952,58.73
+Isla de la Juventud,28,3.43,16,57.14
+Islas Baleares,30,2.93,19,63.33
+Isparta,1,5.0,1,100.0
+Ivano-Frankivsk,7,1.86,0,0.0
+Ivanovo,13,3.38,7,53.85
+Izmir,95,3.56,51,53.68
+Jaiber Pajtunjuá,19,2.11,11,57.89
+Jalisco,379,3.44,213,56.2
+Jambi,16,3.5,9,56.25
+Jammu y Cachemira,21,3.52,15,71.43
+Jartum,41,3.66,20,48.78
+Java Central,129,3.58,70,54.26
+Java Occidental,352,3.48,203,57.67
+Java Oriental,254,3.37,143,56.3
+Jeju,5,3.8,2,40.0
+Jersón,8,3.0,2,25.0
+Jerusalén,25,4.0,16,64.0
+Jharkhand,31,3.68,13,41.94
+Jiangsu,169,3.82,104,61.54
+Jiangxi,36,3.39,22,61.11
+Jilin,75,4.15,49,65.33
+Jinja,6,3.67,2,33.33
+Jizzakh,4,3.5,3,75.0
+Jizán,9,3.11,6,66.67
+Jorasán Razaví,76,3.67,51,67.11
+Jorasán del Sur,2,4.5,1,50.0
+Jubbada Hoose,7,2.57,6,85.71
+Jujuy,4,3.5,4,100.0
+Junín,10,3.5,7,70.0
+Jutlandia Central,4,3.5,0,0.0
+Juzestán,44,3.27,20,45.45
+Járkov,39,3.77,23,58.97
+Kabardia-Balkaria,1,2.0,1,100.0
+Kabarole,1,5.0,1,100.0
+Kabul,46,3.52,27,58.7
+Kaduna,42,3.48,24,57.14
+Kafr el Sheij,2,4.5,1,50.0
+Kagawa,7,2.57,4,57.14
+Kahramanmara?,12,3.75,7,58.33
+Kalimantan Oriental,82,3.35,49,59.76
+Kaliningrado,11,4.27,6,54.55
+Kaluga,12,3.58,5,41.67
+Kampala,19,3.37,14,73.68
+Kanagawa,21,3.48,15,71.43
+Kandahar,8,4.25,4,50.0
+Kankan,5,3.2,2,40.0
+Kano,89,3.67,53,59.55
+Kansas,18,3.78,9,50.0
+Kara,1,5.0,1,100.0
+Karagandá,20,4.05,14,70.0
+Karaman,2,4.0,1,50.0
+Karbala,6,2.33,3,50.0
+Karnataka,164,3.44,98,59.76
+Kars,7,3.71,5,71.43
+Kasai Occidental,16,3.69,14,87.5
+Kasai Oriental,24,3.5,12,50.0
+Kasala,4,4.0,3,75.0
+Kashkadar,6,4.17,3,50.0
+Katanga,60,3.55,34,56.67
+Katsina,11,3.18,5,45.45
+Kaunas,11,3.55,5,45.45
+Kayes,6,3.83,4,66.67
+Kayseri,22,3.73,12,54.55
+Kentucky,116,3.53,71,61.21
+Kerala,44,3.68,25,56.82
+Kerman,16,3.81,8,50.0
+Kermanshah,21,3.76,8,38.1
+Khatlon,3,3.0,1,33.33
+Khmelnytskyi,9,3.67,6,66.67
+Khomas,6,3.83,4,66.67
+Khorezm,1,6.0,1,100.0
+Khulna,17,2.65,7,41.18
+Khánh Hòa,7,3.29,6,85.71
+Kigali,27,3.7,13,48.15
+Kigoma,7,3.57,3,42.86
+Kilimanjaro,4,3.25,2,50.0
+Kilis,2,4.5,1,50.0
+Kinshasa,152,3.68,91,59.87
+Kirovohrad,7,3.29,5,71.43
+Kirsehir,3,2.0,2,66.67
+Kivu del Sur,8,4.38,8,100.0
+Kiên Giang,10,3.3,5,50.0
+Klaip?da,3,1.33,3,100.0
+Kocaeli,9,2.33,6,66.67
+Konya,17,3.41,9,52.94
+Korçë,2,3.5,1,50.0
+Kostanái,6,1.5,2,33.33
+Kuala Lumpur,43,3.53,25,58.14
+Kumanovo,2,2.5,0,0.0
+Kurdistán,11,3.82,7,63.64
+KwaZulu-Natal,28,3.07,17,60.71
+Kwara,15,2.53,9,60.0
+Kymenlaakso,4,2.5,0,0.0
+Kütahya,4,2.5,3,75.0
+La Libertad,34,3.94,22,64.71
+La Pampa,5,4.0,4,80.0
+La Paz,9,3.11,3,33.33
+La Rioja,1,2.0,1,100.0
+La Romana,101,3.58,52,51.49
+La Vega,22,3.14,13,59.09
+Lacio,306,3.29,172,56.21
+Lacs,4,3.5,2,50.0
+Laghouat,2,4.5,1,50.0
+Lagos,276,3.53,151,54.71
+Lagunes,60,3.52,42,70.0
+Lambayeque,2,3.0,2,100.0
+Languedoc-Rosellón-Mediodía-Pirineos,365,3.57,218,59.73
+Lara,8,4.62,6,75.0
+Las Tunas,89,3.42,43,48.31
+Lebap,6,4.0,4,66.67
+León,86,3.41,48,55.81
+Liaoning,124,3.48,73,58.87
+Liberec,3,4.67,2,66.67
+Lieja,4,3.75,3,75.0
+Liguria,45,3.96,31,68.89
+Lima,1,3.0,1,100.0
+Lima (ciudad),169,3.21,98,57.99
+Limburgo,83,3.67,49,59.04
+Limpopo,4,4.75,3,75.0
+Lisboa,70,2.97,28,40.0
+Litoral,2,3.5,2,100.0
+Littoral,15,2.8,6,40.0
+Liubliana,3,3.0,2,66.67
+Lodz,22,2.91,11,50.0
+Lombardía,248,3.21,120,48.39
+Lorestan,20,3.45,11,55.0
+Loreto,8,2.75,5,62.5
+Lori,1,2.0,1,100.0
+Los Lagos,7,4.0,4,57.14
+Los Ríos,2,5.0,2,100.0
+Luanda,62,3.5,36,58.06
+Lublin,19,3.95,11,57.89
+Lubusz,2,2.5,1,50.0
+Lucerna,9,3.56,6,66.67
+Lugansk,14,3.29,8,57.14
+Luisiana,33,3.42,22,66.67
+Lusaka,32,3.62,18,56.25
+Luxemburgo,4,5.5,4,100.0
+Luzón Central,22,3.5,11,50.0
+Lviv,33,4.09,17,51.52
+Líbano del Norte,2,1.0,1,50.0
+Madhya Pradesh,102,3.45,64,62.75
+Madrid,373,3.34,195,52.28
+Magallanes y Antártica Chilena,8,4.0,7,87.5
+Magdalena,15,3.8,9,60.0
+Maharashtra,382,3.63,222,58.12
+Maine,5,4.2,4,80.0
+Malanje,3,4.33,2,66.67
+Malatya,2,2.5,2,100.0
+Maluku,6,4.33,4,66.67
+Manabí,5,3.4,5,100.0
+Managua,578,3.42,348,60.21
+Manawatu-Wanganui,17,4.06,13,76.47
+Mandoul,1,0.0,0,0.0
+Manica,5,5.0,5,100.0
+Manicalandia,1,3.0,1,100.0
+Maniema,5,3.2,4,80.0
+Manipur,8,2.25,6,75.0
+Manisa,21,3.76,11,52.38
+Manitoba,11,3.36,5,45.45
+Manzini,2,6.0,2,100.0
+Maputo,12,3.92,8,66.67
+Mar Rojo,16,3.12,9,56.25
+Mara,2,2.0,2,100.0
+Maradi,7,3.43,4,57.14
+Maramures,5,2.8,2,40.0
+Marañón,102,3.71,65,63.73
+Marche,29,2.86,5,17.24
+Mardin,7,2.57,1,14.29
+Markazí,18,3.0,11,61.11
+Marlborough,8,4.0,4,50.0
+Marrakech-Tensift-Al Hauz,33,3.79,17,51.52
+Martinica,40,3.4,22,55.0
+Mary,4,4.75,3,75.0
+Maryland,80,3.8,52,65.0
+Marítima,32,2.97,11,34.38
+Masaya,52,3.73,35,67.31
+Mascate,2,3.5,0,0.0
+Maseru,5,3.8,3,60.0
+Mashonalandia Occidental,1,5.0,1,100.0
+Massachusetts,103,3.7,66,64.08
+Matagalpa,58,3.57,33,56.9
+Matanzas,47,3.0,13,27.66
+Mato Grosso,28,3.79,17,60.71
+Mato Grosso del Sur,26,3.27,15,57.69
+Matruh,2,4.0,1,50.0
+Mayabeque,37,3.35,20,54.05
+Mazandarán,17,4.41,11,64.71
+Mazovia,45,3.11,21,46.67
+Mbeya,8,4.62,7,87.5
+Meca,94,3.37,53,56.38
+Mecklemburgo-Pomerania Occidental,62,3.18,30,48.39
+Medina,25,4.04,16,64.0
+Mehedinti,3,4.0,2,66.67
+Melilla,3,5.33,3,100.0
+Mendoza,30,4.0,19,63.33
+Menia,15,3.33,11,73.33
+Mequinez-Tafilalet,22,3.45,12,54.55
+Meridional,23,3.61,16,69.57
+Mersin,34,3.29,14,41.18
+Mesena,3,3.33,0,0.0
+Michigan,191,3.24,107,56.02
+Michoacán,144,3.56,79,54.86
+Mie,1,2.0,1,100.0
+Minas Gerais,202,3.55,113,55.94
+Mindanao Septentrional,7,3.71,3,42.86
+Minnesota,76,3.61,45,59.21
+Miranda,21,3.14,10,47.62
+Misiones,8,3.0,2,25.0
+Misisipi,42,3.67,25,59.52
+Misurata,10,2.4,4,40.0
+Misuri,54,3.41,30,55.56
+Monagas,3,3.0,1,33.33
+Mongolia Interior,48,3.62,31,64.58
+Mono,2,3.0,1,50.0
+Monseñor Nouel,3,4.0,2,66.67
+Montana,14,3.64,9,64.29
+Montevideo,33,3.12,16,48.48
+Montserrado,9,2.89,4,44.44
+Mopti,3,3.33,3,100.0
+Moquegua,6,4.0,5,83.33
+Moravia-Silesia,2,5.0,2,100.0
+Morelos,54,3.57,31,57.41
+Morogoro,3,5.0,2,66.67
+Moscú,4,4.25,2,50.0
+Mostaganem,2,4.5,1,50.0
+Mpumalanga,3,2.0,1,33.33
+Mtwara,2,4.5,2,100.0
+Muharraq,1,3.0,0,0.0
+Murcia,59,3.83,43,72.88
+Mures,6,2.33,4,66.67
+Mwanza,14,3.14,10,71.43
+Mykolayiv,10,3.2,6,60.0
+Mérida,1,6.0,1,100.0
+México,259,3.58,142,54.83
+Nagano,4,1.5,0,0.0
+Nagasaki,10,3.8,6,60.0
+Nairobi,37,2.95,15,40.54
+Nakhon Ratchasima,10,3.5,6,60.0
+Namangán,13,3.31,6,46.15
+Namibe,2,4.0,1,50.0
+Nampula,6,4.33,4,66.67
+Namur,20,3.2,12,60.0
+Nangarhar,9,3.11,6,66.67
+Nariño,5,4.2,3,60.0
+Navarra,10,3.5,4,40.0
+Nayarit,45,3.2,24,53.33
+Neamt,4,3.0,2,50.0
+Nebraska,35,3.6,19,54.29
+Negeri Sembilan,29,3.62,17,58.62
+Nelson,18,3.94,7,38.89
+Neuquén,6,2.83,5,83.33
+Nevada,32,3.53,18,56.25
+Nevsehir,4,4.5,4,100.0
+Niamey,21,3.76,13,61.9
+Niari,5,2.8,4,80.0
+Niassa,3,2.67,3,100.0
+Nicosia,4,3.0,3,75.0
+Nigde,3,4.67,2,66.67
+Nilo Blanco,5,4.2,2,40.0
+Ningxia Hui,2,2.0,0,0.0
+Nitra,5,4.0,3,60.0
+Nom Pen,63,3.4,39,61.9
+Nord,16,2.62,10,62.5
+Nord-Ouest,4,4.25,3,75.0
+Normandía,162,3.53,95,58.64
+Noroeste,13,3.92,8,61.54
+Norte de Santander,48,3.48,21,43.75
+Norte-Paso de Calais-Picardía,325,3.51,187,57.54
+Northland,21,3.43,10,47.62
+Nouakchott,6,3.83,2,33.33
+Nueva Escocia,2,1.0,1,50.0
+Nueva Esparta,3,3.33,1,33.33
+Nueva Gales del Sur,988,3.51,548,55.47
+Nueva Jersey,99,3.42,59,59.6
+Nueva York,885,3.52,520,58.76
+Nuevo Hampshire,22,3.45,16,72.73
+Nuevo León,198,3.45,104,52.53
+Nuevo México,27,3.26,12,44.44
+Nusa Tenggara Oriental,14,3.57,12,85.71
+Nusatenggara Occidental,8,2.75,2,25.0
+Nyanza,9,4.0,7,77.78
+Nzérékoré,6,4.17,3,50.0
+Níger,9,4.11,4,44.44
+Nínive,34,3.21,17,50.0
+Nóvgorod,1,2.0,1,100.0
+O'Higgins,20,3.8,14,70.0
+Oaxaca,6,4.5,4,66.67
+Occidental,12,4.42,9,75.0
+Odisha,28,3.82,13,46.43
+Ogun,10,3.5,3,30.0
+Ohio,356,3.51,203,57.02
+Oita,16,2.69,7,43.75
+Okayama,2,3.0,2,100.0
+Oklahoma,57,3.68,35,61.4
+Olomouc,1,5.0,1,100.0
+Ondo,10,4.2,5,50.0
+Ontario,153,3.31,79,51.63
+Opole,5,4.2,3,60.0
+Oregón,93,3.55,47,50.54
+Oriental,7,4.14,4,57.14
+Oruro,5,4.2,4,80.0
+Orán,29,3.69,18,62.07
+Osaka,31,3.55,14,45.16
+Osh,3,2.67,0,0.0
+Osjecko-Baranjska,1,2.0,1,100.0
+Oslo,57,3.89,35,61.4
+Osmaniye,8,3.88,5,62.5
+Osun,8,2.62,2,25.0
+Otago,20,3.55,13,65.0
+Ouest,162,3.59,86,53.09
+Ouest del Sur,3,3.67,0,0.0
+Ouémé,5,3.6,2,40.0
+Overijssel,34,3.62,19,55.88
+Oyo,49,3.53,31,63.27
+Pahang,35,3.51,19,54.29
+Panamá,534,3.43,274,51.31
+Panevezys,6,4.17,3,50.0
+Papua,6,4.67,4,66.67
+Paramaribo,2,2.0,0,0.0
+Paraná,100,3.34,56,56.0
+Paraíba,39,2.59,21,53.85
+Pará,55,3.15,26,47.27
+Pavlodar,15,3.33,9,60.0
+Paysandú,1,6.0,1,100.0
+Pazardzhik,2,5.5,2,100.0
+País Vasco,107,3.51,60,56.07
+Países del Loira,181,3.53,105,58.01
+Pekín,74,3.12,33,44.59
+Pensilvania,455,3.4,238,52.31
+Perak,45,2.53,24,53.33
+Peravia,15,3.2,7,46.67
+Pernambuco,135,3.44,73,54.07
+Pernik,1,2.0,1,100.0
+Piamonte,119,3.22,73,61.34
+Piauí,21,2.86,8,38.1
+Pichincha,43,3.19,31,72.09
+Pilsen,9,3.89,4,44.44
+Pinar del Río,93,3.34,54,58.06
+Piura,5,3.4,3,60.0
+Plateau,13,3.15,5,38.46
+Plateaux,2,4.0,1,50.0
+Plovdiv,8,4.25,6,75.0
+Podgorica,4,3.75,2,50.0
+Podlaquia,9,3.67,6,66.67
+Polonia Menor,5,3.2,2,40.0
+Poltava,16,4.06,11,68.75
+Pomerania,25,3.08,14,56.0
+Porto,30,3.57,21,70.0
+Portuguesa,9,3.78,4,44.44
+Potosí,9,3.33,5,55.56
+Praga,42,3.55,22,52.38
+Prahova,7,3.71,6,85.71
+Prefectura de Vientián,3,5.67,3,100.0
+Primorje-Gorski Kotar,2,3.5,2,100.0
+Provenza-Alpes-Costa Azul,660,3.51,386,58.48
+Provincia Oriental,20,3.4,13,65.0
+Puducherry,11,3.82,7,63.64
+Puebla,223,3.64,124,55.61
+Puerto Saíd,4,2.75,2,50.0
+Puno,8,3.75,6,75.0
+Punyab,299,3.44,179,59.87
+Pwani,3,2.0,3,100.0
+Qazvín,4,5.25,3,75.0
+Qina,3,4.33,2,66.67
+Qinghai,5,2.6,1,20.0
+Qom,29,3.38,19,65.52
+Quebec,40,3.55,22,55.0
+Queensland,926,3.52,542,58.53
+Querétaro,77,3.45,52,67.53
+Quezaltenango,68,3.38,44,64.71
+Quindío,13,4.15,7,53.85
+Quintana Roo,57,3.91,35,61.4
+Rabat-Salé-Zemur-Zaer,101,3.37,58,57.43
+Rajastán,149,3.5,89,59.73
+Rajshahi,8,4.0,4,50.0
+Rangún,185,3.51,101,54.59
+Ras al-Jaima,8,3.12,6,75.0
+Región Capital,61,3.82,33,54.1
+Renania del Norte-Westfalia,1170,3.59,682,58.29
+Renania-Palatinado,137,3.7,73,53.28
+Rhode Island,49,3.55,29,59.18
+Riad,116,3.57,76,65.52
+Riau,40,4.1,27,67.5
+Rio Grande do Sul,140,3.62,86,61.43
+Risaralda,19,4.0,13,68.42
+Rivera,4,5.5,4,100.0
+Rivne,4,2.0,1,25.0
+Rize,1,4.0,0,0.0
+Rogaland,28,3.61,15,53.57
+Rondônia,10,3.1,7,70.0
+Roraima,13,3.54,10,76.92
+Ruvuma,1,2.0,1,100.0
+Río Grande del Norte,42,3.5,21,50.0
+Río Negro,2,3.0,0,0.0
+Río de Janeiro,118,3.39,69,58.47
+Ríos,37,3.59,18,48.65
+Sabah,59,3.17,36,61.02
+Saga,7,4.57,5,71.43
+Saida,6,3.83,4,66.67
+Saint-Louis,2,2.0,1,50.0
+Saitama,16,2.88,12,75.0
+Sajonia,128,3.12,71,55.47
+Sajonia-Anhalt,54,3.33,30,55.56
+Saladino,2,3.5,2,100.0
+Salta,9,3.78,5,55.56
+Salzburgo,14,3.86,9,64.29
+Samsun,5,2.8,3,60.0
+San Cristóbal,10,3.8,4,40.0
+San Fernando,25,3.92,15,60.0
+San Galo,3,3.0,1,33.33
+San Juan,44,4.0,31,70.45
+San Luis,4,3.0,2,50.0
+San Luis Potosí,90,3.44,48,53.33
+San Miguel,41,3.46,23,56.1
+San Pedro de Macorís,69,3.01,38,55.07
+San Salvador,991,3.53,579,58.43
+Sancti Spíritus,30,3.37,17,56.67
+Sanliurfa,13,3.31,9,69.23
+Santa Ana,95,3.74,52,54.74
+Santa Catarina,165,3.76,101,61.21
+Santa Caterina,51,3.47,25,49.02
+Santa Cruz,18,3.72,11,61.11
+Santa Fe,72,3.86,46,63.89
+Santander,42,3.21,22,52.38
+Santiago de Chile,284,3.65,164,57.75
+Santiago de Cuba,257,3.45,132,51.36
+Santiago del Estero,5,4.8,4,80.0
+Santo Domingo,715,3.52,412,57.62
+Sarawak,16,4.69,12,75.0
+Sarre,17,3.47,14,82.35
+Saskatchewan,13,4.0,5,38.46
+Satu Mare,2,5.5,2,100.0
+Savanes,1,6.0,1,100.0
+Schleswig-Holstein,46,3.17,20,43.48
+Selandia,4,5.25,3,75.0
+Selangor,12,3.58,9,75.0
+Semnán,1,2.0,1,100.0
+Septentrional,10,3.9,3,30.0
+Serbia Central,1,3.0,0,0.0
+Sergipe,15,3.47,9,60.0
+Setúbal,1,5.0,1,100.0
+Sevastopol,4,3.5,1,25.0
+Seúl,130,3.58,82,63.08
+Shaanxi,37,3.11,17,45.95
+Shandong,180,3.49,94,52.22
+Shanghái,122,3.76,72,59.02
+Shanxi,68,3.81,40,58.82
+Shinyanga,9,3.89,4,44.44
+Shizuoka,15,3.2,10,66.67
+Shkodër,4,2.25,0,0.0
+Shumen,1,3.0,0,0.0
+Sibiu,3,3.67,0,0.0
+Sichuan,134,3.48,76,56.72
+Sicilia,167,3.53,95,56.89
+Sidi Bel Abbes,2,3.5,0,0.0
+Siirt,2,4.5,1,50.0
+Sikasso,1,5.0,1,100.0
+Silesia,64,3.67,40,62.5
+Sinaloa,128,3.59,67,52.34
+Sind,53,2.94,26,49.06
+Singapur,220,3.42,129,58.64
+Sirnak,2,3.0,0,0.0
+Sistán y Baluchistán,18,3.56,10,55.56
+Sivas,12,4.08,5,41.67
+Skikda,5,4.6,3,60.0
+Sliven,3,2.67,0,0.0
+Sofala,9,3.44,6,66.67
+Sofía-Ciudad,29,3.38,16,55.17
+Sokoto,5,2.6,4,80.0
+Sonora,115,3.36,70,60.87
+Sonsonate,43,3.58,26,60.47
+Southland,9,3.22,2,22.22
+Split-Dalmacia,5,4.2,2,40.0
+Stara Zagora,1,0.0,0,0.0
+Stiria,17,3.0,8,47.06
+Stávropol,4,4.5,2,50.0
+Suceava,1,5.0,1,100.0
+Sucre,6,2.0,3,50.0
+Sud,2,5.5,2,100.0
+Sudeste,4,2.75,2,50.0
+Suhaj,6,2.17,2,33.33
+Sumatra Meridional,57,3.32,35,61.4
+Sumatra Occidental,21,3.76,14,66.67
+Sumatra Septentrional,174,3.69,99,56.9
+Sumy,5,3.0,3,60.0
+Surjandarín,7,3.57,4,57.14
+Sus-Masa-Draa,13,3.69,5,38.46
+Sylhet,9,4.11,8,88.89
+São Paulo,655,3.54,368,56.18
+Södermanland,2,4.0,2,100.0
+T?nh C?n Th?,11,3.82,6,54.55
+Tabasco,54,3.44,24,44.44
+Tabora,2,2.5,1,50.0
+Tabuk,17,3.18,9,52.94
+Tadla-Azilal,6,3.67,3,50.0
+Taipéi,13,3.31,4,30.77
+Taiz,19,4.21,14,73.68
+Tamaulipas,158,3.82,112,70.89
+Tambov,6,4.0,3,50.0
+Tamil Nadu,153,3.46,83,54.25
+Tanga,1,6.0,1,100.0
+Taranaki,17,4.18,8,47.06
+Tarapacá,4,5.5,4,100.0
+Tarija,3,2.33,3,100.0
+Tartu,1,5.0,1,100.0
+Tasmania,151,3.52,87,57.62
+Taza-Alhucemas-Taunat,3,4.0,2,66.67
+Teherán,23,3.91,14,60.87
+Tekirdag,9,3.22,4,44.44
+Tel Aviv,35,3.29,22,62.86
+Telangana,64,3.56,38,59.38
+Tennessee,144,3.81,89,61.81
+Ternópil,5,3.8,3,60.0
+Terranova,1,3.0,0,0.0
+Territorio de la Capital Australiana,194,3.4,108,55.67
+Territorio de la Capital Federal,23,3.3,12,52.17
+Territorio del Norte,39,3.26,16,41.03
+Tete,2,1.0,1,50.0
+Texas,784,3.52,460,58.67
+Th? Dô Hà N?i,59,3.56,28,47.46
+Thiès,9,3.78,6,66.67
+Tianjin,64,3.47,35,54.69
+Tiflis,20,2.85,13,65.0
+Timis,16,3.44,10,62.5
+Tipaza,4,2.75,3,75.0
+Tirol,22,3.09,15,68.18
+Tizi Ouzou,2,3.5,0,0.0
+Tlemcen,1,5.0,1,100.0
+Tocantins,19,3.58,11,57.89
+Tochigi,3,2.67,0,0.0
+Tokat,2,2.5,1,50.0
+Tokio,89,3.61,50,56.18
+Tolima,24,3.54,17,70.83
+Toscana,163,3.68,96,58.9
+Tottori,1,3.0,1,100.0
+Trebisonda,8,3.38,5,62.5
+Trengganu,8,4.0,7,87.5
+Trentino-Alto Adigio,29,4.31,17,58.62
+Tripura,3,2.33,2,66.67
+Turingia,55,3.69,37,67.27
+Táchira,3,3.0,1,33.33
+Tánger-Tetuán,24,3.79,8,33.33
+Túnez,12,3.42,10,83.33
+Ucayali,9,4.11,6,66.67
+Ulsan,9,3.56,4,44.44
+Ulán Bator,28,3.61,17,60.71
+Umbría,18,3.83,12,66.67
+Upsala,13,2.46,7,53.85
+Usak,2,3.0,1,50.0
+Utah,46,3.33,28,60.87
+Utrecht,75,3.41,42,56.0
+Uttar Pradesh,255,3.45,139,54.51
+Uttarakhand,23,3.61,19,82.61
+Uusimaa,86,3.55,42,48.84
+Valenciana,157,3.62,86,54.78
+Valle del Cauca,11,4.0,4,36.36
+Vallée du Bandama,12,2.92,4,33.33
+Valparaíso,22,3.27,10,45.45
+Van,13,3.77,11,84.62
+Vargas,6,5.0,6,100.0
+Varna,6,3.0,3,50.0
+Vaud,14,3.57,11,78.57
+Veracruz,185,3.64,102,55.14
+Vermont,8,4.0,5,62.5
+Vest-Agder,4,5.5,4,100.0
+Victoria,614,3.5,352,57.33
+Viena,362,3.49,212,58.56
+Villa Clara,72,3.83,42,58.33
+Vilna,17,3.06,10,58.82
+Virginia,175,3.3,96,54.86
+Virginia Occidental,4,3.25,0,0.0
+Visayas Occidental,28,3.86,16,57.14
+Vitsyebsk,6,3.83,3,50.0
+Vladímir,6,3.67,5,83.33
+Vlorë,4,2.0,4,100.0
+Volinia,7,2.43,4,57.14
+Vorónezh,10,4.2,9,90.0
+Vrancea,1,6.0,1,100.0
+Vâlcea,7,3.43,3,42.86
+Värmland,8,4.0,5,62.5
+Västra Götaland,41,3.46,25,60.98
+Véneto,101,3.35,61,60.4
+Vínnytsia,22,4.05,12,54.55
+Waikato,23,3.7,14,60.87
+Washington,416,3.51,236,56.73
+Wellington,98,3.72,54,55.1
+Wisconsin,94,3.06,52,55.32
+Xinjiang Uygur,14,3.57,8,57.14
+Yakarta,447,3.51,261,58.39
+Yalova,2,2.5,2,100.0
+Yamaguchi,13,3.0,5,38.46
+Yambol,1,4.0,0,0.0
+Yaracuy,6,3.67,3,50.0
+Yaroslavl,20,3.9,13,65.0
+Yazd,9,3.56,3,33.33
+Yevrey,1,1.0,1,100.0
+Yibuti,10,4.0,6,60.0
+Yobe,3,2.33,0,0.0
+Yogyakarta,114,3.42,60,52.63
+Yoro,52,3.54,29,55.77
+Yucatán,118,3.32,73,61.86
+Yunnan,30,3.47,18,60.0
+Zacatecas,19,2.74,6,31.58
+Zagrebacka,1,2.0,1,100.0
+Zambezia,9,3.44,6,66.67
+Zamfara,3,4.0,1,33.33
+Zanyán,16,3.69,11,68.75
+Zaporiyia,14,3.0,7,50.0
+Zelanda,2,3.5,2,100.0
+Zhambyl,2,3.5,2,100.0
+Zhejiang,92,3.53,44,47.83
+Zhytómyr,11,4.55,7,63.64
+Ziguinchor,2,2.5,1,50.0
+Zinder,2,2.5,1,50.0
+Zulia,54,3.44,29,53.7
+Zúrich,52,3.81,36,69.23
+iauliai,3,3.67,1,33.33
+ilina,2,3.0,2,100.0
+Çanakkale,3,4.67,3,100.0
+Équateur,14,3.79,6,42.86
+Ústí nad Labem,4,4.0,4,100.0

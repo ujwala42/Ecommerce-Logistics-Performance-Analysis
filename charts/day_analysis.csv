@@ -1,0 +1,3 @@
+Day_Type,Total_Orders,Average_Shipping_Days,Delayed_Orders,Delay_Percentage
+Weekday,44926,3.5013800471887104,25756,57.32983127810177
+Weekend,17971,3.5018641144065437,10292,57.27004618552112
